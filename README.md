@@ -8,13 +8,13 @@ Exploring the world of code through hands-on projects and continuous learning.
 Passionate about technology and problem-solving, I'm building my skills through practical projects in various programming languages. My GitHub showcases my journey from foundational concepts to more complex implementations.
 
 ### Core Proficiencies
-
+<div style="align-items: center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"  width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"  width="40" height="40" />
-          
+</div>         
 
 ## ⌨ GitHub Stats
 
