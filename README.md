@@ -3,28 +3,20 @@
 **Brazilian tech enthusiast | Computer Technical Student @ ENIAC**  
 Exploring the world of code through hands-on projects and continuous learning.  
 
-## ✧ About Me
+## ✧ About Me ✧
 
 Passionate about technology and problem-solving, I'm building my skills through practical projects in various programming languages. My GitHub showcases my journey from foundational concepts to more complex implementations.
-
-## ⌨ GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinsimoess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsimoess&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ## 🛠️ Tech Stack
 
 ### Core Proficiencies
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
-</div>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<i class="devicon-html5-plain-wordmark colored"></i>
+<i class="devicon-css3-plain-wordmark colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-react-original colored"></i>
+<i class="devicon-mysql-plain-wordmark colored"></i>
 
 ### Currently Learning
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
@@ -32,6 +24,13 @@ Passionate about technology and problem-solving, I'm building my skills through 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
 </div>
+
+## ⌨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevin-simoes&show_icons=true&theme=algolia&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-simoes&layout=compact&theme=algolia&hide_border=true">
+</p>
 
 ## 🌐 Connect With Me
 
