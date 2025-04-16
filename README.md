@@ -1,29 +1,20 @@
 # ✤ Kevin Simões | Developer in Training
 
-**Brazilian tech enthusiast | Computer Technical Student @ ENIAC**  
+**Brazilian tech enthusiast | Computer Technical Student**  
 Exploring the world of code through hands-on projects and continuous learning.  
 
 ## ✧ About Me ✧
 
 Passionate about technology and problem-solving, I'm building my skills through practical projects in various programming languages. My GitHub showcases my journey from foundational concepts to more complex implementations.
 
-## 🛠️ Tech Stack
-
 ### Core Proficiencies
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-react-original colored"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-
-### Currently Learning
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+          
 
 ## ⌨ GitHub Stats
 
