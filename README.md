@@ -20,8 +20,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 ## ⌨ GitHub Stats
 
 <p align="center">
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-</p>
+
 
 ## 🌐 Connect With Me
 
