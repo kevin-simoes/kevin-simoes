@@ -21,21 +21,25 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## Programming Languages
 
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=js,html,css,ts,mysql, kotlin" style="max-width: 100%;"></a></p>
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=3)](https://skillicons.dev)
+
+---
 
 ## Frameworks
 
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=tailwind,next" style="max-width: 100%;"></a></p>
+[![Frameworks](https://skillicons.dev/icons?i=next,tailwind&perline=3)](https://skillicons.dev)
 
-</td>
+---
 
 ## UI Library
 
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=react" style="max-width: 100%;"></a></p>
+[![UI](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
+
+---
 
 ## Tools
 
-<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=git,md,notion,figma, " style="max-width: 100%;"></a></p>
+[![Tools](https://skillicons.dev/icons?i=git,md,figma,notion&perline=3)](https://skillicons.dev)
 
 </td>
 
