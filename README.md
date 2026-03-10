@@ -19,10 +19,8 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## ⌨ GitHub Stats
 
-<p align="center">
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" style="max-width: 100%;">
-</a>
+<p align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7c1be70694203f6af0a5fc3d70ac2a9e8ac1150a3ae8ad4f2b533a56833033bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d7263566e7a26686964655f626f726465723d74727565266261636b67726f756e643d3030303030302672696e673d30304646343126666972653d303046463431266375727253747265616b4c6162656c3d46464646464626736964654c6162656c733d464646464646266375727253747265616b4e756d3d30304646343126736964654e756d733d3030464634312664617465733d414141414141"><img src="https://camo.githubusercontent.com/7c1be70694203f6af0a5fc3d70ac2a9e8ac1150a3ae8ad4f2b533a56833033bb/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d7263566e7a26686964655f626f726465723d74727565266261636b67726f756e643d3030303030302672696e673d30304646343126666972653d303046463431266375727253747265616b4c6162656c3d46464646464626736964654c6162656c733d464646464646266375727253747265616b4e756d3d30304646343126736964654e756d733d3030464634312664617465733d414141414141" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=MrcVnz&amp;hide_border=true&amp;background=000000&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;currStreakNum=00FF41&amp;sideNums=00FF41&amp;dates=AAAAAA" style="max-width: 100%;"></a>
 </p>
 
 ## Contribution Activity
