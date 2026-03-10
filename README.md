@@ -37,9 +37,11 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 </td>
 
-</tr>
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
+
+</tr>
+
 
 </table>
