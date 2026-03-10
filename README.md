@@ -21,25 +21,19 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## Programming Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=3)](https://skillicons.dev)
-
----
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=5)](https://skillicons.dev)
 
 ## Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=next,tailwind&perline=3)](https://skillicons.dev)
-
----
+[![Frameworks](https://skillicons.dev/icons?i=next,tailwind&perline=5)](https://skillicons.dev)
 
 ## UI Library
 
-[![UI](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
-
----
+[![UI](https://skillicons.dev/icons?i=react&perline=5)](https://skillicons.dev)
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,md,figma,notion&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,md,figma,notion&perline=5)](https://skillicons.dev)
 
 </td>
 
