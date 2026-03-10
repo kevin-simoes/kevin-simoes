@@ -1,7 +1,8 @@
-<table>
+<h1 align="center">✤ Kevin Simões | Developer in Training ✤</h1>
 
+<table>
 <tr>
-    # ✤ Kevin Simões | Developer in Training
+
 <td width="50%" valign="top">
 
 ## ✧ About Me ✧
@@ -18,10 +19,6 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 <td width="50%" valign="top">
 
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
-
 ### Core Proficiencies
 
 <div>
@@ -36,6 +33,22 @@ Passionate about technology and problem-solving, I'm building my skills through 
 </td>
 
 </tr>
-
-
 </table>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-sim%C3%B5es-362750350/)
+
+---
+
+✰ **Exploring new technologies one commit at a time** ✰
