@@ -20,8 +20,16 @@ Passionate about technology and problem-solving, I'm building my skills through 
 ## ⌨ GitHub Stats
 
 <p align="center">
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true" width="100%">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" style="max-width: 100%;">
+</a>
+</p>
+
+## Contribution Activity
+
+<p align="center">
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" width="100%">
 </a>
 </p>
 
