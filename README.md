@@ -19,16 +19,23 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 <td width="50%" valign="top">
 
-### Core Proficiencies
+## Programming Languages
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40"/>
-<img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="40"/>
-</div>
+<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=js,html,css,ts,mysql, kotlin" style="max-width: 100%;"></a></p>
+
+## Frameworks
+
+<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=tailwind,next" style="max-width: 100%;"></a></p>
+
+</td>
+
+## UI Library
+
+<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=react" style="max-width: 100%;"></a></p>
+
+## Tools
+
+<p dir="auto"><a href="https://skillicons.dev" rel="nofollow"><img src="https://camo.githubusercontent.com/c7d894b5b03f38e0f3bee463f1e96ddd94eb0eca7865245e29c7557b01283890/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=git,md,notion,figma, " style="max-width: 100%;"></a></p>
 
 </td>
 
