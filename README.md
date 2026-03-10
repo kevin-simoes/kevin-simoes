@@ -21,7 +21,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## Programming Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=6)](https://skillicons.dev)
 
 ## Frameworks
 
