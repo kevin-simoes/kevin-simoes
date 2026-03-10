@@ -1,11 +1,7 @@
 <table>
+  # ✤ Kevin Simões | Developer in Training
 <tr>
 <td width="50%" valign="top">
-
-# ✤ Kevin Simões | Developer in Training
-
-**Brazilian tech enthusiast | Computer Technical Student**  
-Exploring the world of code through hands-on projects and continuous learning.
 
 ## ✧ About Me ✧
 
@@ -38,12 +34,10 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-simoes&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
-<br><br>
-
+</td>
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin-simoes&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true"/>
 
-</td>
 </tr>
 </table>
