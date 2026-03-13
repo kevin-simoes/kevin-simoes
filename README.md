@@ -33,7 +33,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,md,figma,notion&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,md,figma,npm,notion&perline=5)](https://skillicons.dev)
 
 </td>
 
