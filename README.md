@@ -19,21 +19,16 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 <td width="50%" valign="top">
 
-## Programming Languages
+## Skills
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,mysql,kotlin&perline=6)](https://skillicons.dev)
-
-## Frameworks
-
 [![Frameworks](https://skillicons.dev/icons?i=next,tailwind&perline=5)](https://skillicons.dev)
-
-## UI Library
-
 [![UI](https://skillicons.dev/icons?i=react&perline=5)](https://skillicons.dev)
-
-## Tools
-
 [![Tools](https://skillicons.dev/icons?i=git,md,figma,npm,notion&perline=5)](https://skillicons.dev)
+
+## Learning
+
+[![Tools](https://skillicons.dev/icons?i=python,nodejs,angular&perline=3)](https://skillicons.dev)
 
 </td>
 
