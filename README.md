@@ -28,7 +28,7 @@ Passionate about technology and problem-solving, I'm building my skills through 
 
 ## Learning
 
-[![Tools](https://skillicons.dev/icons?i=python,nodejs,angular&perline=3)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=python,nodejs,angular,threejs&perline=4)](https://skillicons.dev)
 
 </td>
 
